@@ -1,0 +1,19 @@
+{
+  "type": "Assertion",
+  "id": "https://game.ilsworld.com/openbadges?type=assertion&id=7c181781d1e44314fc11",
+  "@context": "https://w3id.org/openbadges/v2",
+  "recipient": {
+    "type": "email",
+    "salt": "e763e80587b1a7abe59802a1c7d7e6fe",
+    "hashed": true,
+    "identity": "sha256$26a34968845abfa8ad4e7fc356cc30fbf279045cd5b2912f5f537686fdc85a48"
+  },
+  "badge": "https://game.ilsworld.com/openbadges?type=badgeclass&id=1st-in-class",
+  "issuedOn": "2023-03-15T19:20:37Z",
+  "image": {
+    "id": "https://game.ilsworld.com/openbadges?type=assertion&id=7c181781d1e44314fc11&format=png"
+  },
+  "verification": {
+    "type": "HostedBadge"
+  }
+}
