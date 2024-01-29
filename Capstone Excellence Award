@@ -1,0 +1,15 @@
+{
+  "type": "BadgeClass",
+  "id": "https://api.badgr.io/public/badges/n5wHP_dkSwajgRN94z-RVg",
+  "@context": "https://w3id.org/openbadges/v2",
+  "name": "WGU Capstone Excellence Award",
+  "image": {
+    "id": "https://api.badgr.io/public/badges/n5wHP_dkSwajgRN94z-RVg/image"
+  },
+  "description": "Capstone Excellence Award from Western Governors University for exemplary academic performance in a WGU Capstone course",
+  "issuer": "https://api.badgr.io/public/issuers/0hrr2f6xS8GPdzD8vjOWyQ",
+  "criteria": {
+    "id": "https://www.wgu.edu/alumni/resources/capstone-excellence-award.html",
+    "narrative": "This **Capstone Excellence Award from Western Governors University** recognizes exceptional work which is worthy of being showcased in WGU's [Capstone Excellence Archives](https://www.wgu.edu/alumni/resources/capstone-excellence-award.html) to serve as an exemplar for other students and alumni. Often students' capstones are chosen because they provide excellent examples of the following:\n- expressing ingenuity through creativity, originality, initiative, or resourcefulness\n- exhibiting mastery through higher competency, true craftsmanship, or proficiency\n- enabling synergy and creating greater value by serving individuals, an organization, or their community\n\nOther criteria are considered in the selection process for the award, including: \n- high scores on rubric aspects\n- receipt earlier of an Excellence Award\n- low number of submissions on capstone tasks\n- appropriate originality scores\n- completion of the capstone within a reasonable amount of time"
+  }
+}
